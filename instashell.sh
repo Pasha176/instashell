@@ -54,7 +54,7 @@ printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: thelinuxchoice (Gi
 printf "\n"
 }
 
-function start() {
+function start () {
 banner
 checkroot
 dependencies
